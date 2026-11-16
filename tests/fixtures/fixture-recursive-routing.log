@@ -1,0 +1,12 @@
+Apr 07 23:40:00.010 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Up
+Apr 07 23:40:03.500 br-rtr-09 : %TUN-5-RECURDOWN: Tunnel1 temporarily disabled due to recursive routing
+Apr 07 23:40:03.540 br-rtr-09 : %LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel1, changed state to down
+Apr 07 23:40:04.000 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Down Interface flap
+Apr 07 23:41:37.010 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Up
+Apr 07 23:41:40.500 br-rtr-09 : %TUN-5-RECURDOWN: Tunnel1 temporarily disabled due to recursive routing
+Apr 07 23:41:40.540 br-rtr-09 : %LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel1, changed state to down
+Apr 07 23:41:41.000 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Down Interface flap
+Apr 07 23:43:14.010 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Up
+Apr 07 23:43:17.500 br-rtr-09 : %TUN-5-RECURDOWN: Tunnel1 temporarily disabled due to recursive routing
+Apr 07 23:43:17.540 br-rtr-09 : %LINEPROTO-5-UPDOWN: Line protocol on Interface Tunnel1, changed state to down
+Apr 07 23:43:18.000 br-rtr-09 : %BGP-5-ADJCHANGE: neighbor 10.255.9.1 Down Interface flap

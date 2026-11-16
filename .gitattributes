@@ -1,0 +1,4 @@
+# Normalise to LF in the repository and on checkout.
+# A CRLF checkout silently changes every file hash, which is how a published
+# checksum stops matching the file it names.
+* text=auto eol=lf

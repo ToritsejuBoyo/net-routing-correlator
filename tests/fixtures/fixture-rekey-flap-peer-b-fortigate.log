@@ -1,0 +1,17 @@
+date=2026-02-11 time=01:55:03 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037127" type="event" subtype="vpn" action="negotiate" msg="progress IPsec phase 2"
+date=2026-02-11 time=02:00:06 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037124" type="event" subtype="vpn" action="phase2-down" msg="IPsec SA deleted, CHILD_SA closing" remip=198.51.100.7
+date=2026-02-11 time=02:00:08 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032213" type="event" subtype="router" msg="BGP notification received from neighbor 10.255.0.1: code 4/0 hold time expired"
+date=2026-02-11 time=02:00:26 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037129" type="event" subtype="vpn" action="phase2-up" msg="IPsec SA established, CHILD_SA installed" remip=198.51.100.7
+date=2026-02-11 time=02:00:34 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032215" type="event" subtype="router" msg="bgp session established with neighbor 10.255.0.1"
+date=2026-02-11 time=03:00:06 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037124" type="event" subtype="vpn" action="phase2-down" msg="IPsec SA deleted, CHILD_SA closing" remip=198.51.100.7
+date=2026-02-11 time=03:00:08 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032213" type="event" subtype="router" msg="BGP notification received from neighbor 10.255.0.1: code 4/0 hold time expired"
+date=2026-02-11 time=03:00:26 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037129" type="event" subtype="vpn" action="phase2-up" msg="IPsec SA established, CHILD_SA installed" remip=198.51.100.7
+date=2026-02-11 time=03:00:34 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032215" type="event" subtype="router" msg="bgp session established with neighbor 10.255.0.1"
+date=2026-02-11 time=04:00:06 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037124" type="event" subtype="vpn" action="phase2-down" msg="IPsec SA deleted, CHILD_SA closing" remip=198.51.100.7
+date=2026-02-11 time=04:00:08 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032213" type="event" subtype="router" msg="BGP notification received from neighbor 10.255.0.1: code 4/0 hold time expired"
+date=2026-02-11 time=04:00:26 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037129" type="event" subtype="vpn" action="phase2-up" msg="IPsec SA established, CHILD_SA installed" remip=198.51.100.7
+date=2026-02-11 time=04:00:34 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032215" type="event" subtype="router" msg="bgp session established with neighbor 10.255.0.1"
+date=2026-02-11 time=05:00:06 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037124" type="event" subtype="vpn" action="phase2-down" msg="IPsec SA deleted, CHILD_SA closing" remip=198.51.100.7
+date=2026-02-11 time=05:00:08 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032213" type="event" subtype="router" msg="BGP notification received from neighbor 10.255.0.1: code 4/0 hold time expired"
+date=2026-02-11 time=05:00:26 devname="br-fgt-01" devid="FG100ETK00000001" logid="0101037129" type="event" subtype="vpn" action="phase2-up" msg="IPsec SA established, CHILD_SA installed" remip=198.51.100.7
+date=2026-02-11 time=05:00:34 devname="br-fgt-01" devid="FG100ETK00000001" logid="0100032215" type="event" subtype="router" msg="bgp session established with neighbor 10.255.0.1"

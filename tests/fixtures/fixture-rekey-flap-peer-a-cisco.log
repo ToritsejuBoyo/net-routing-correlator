@@ -1,0 +1,33 @@
+Feb 11 01:55:00.000 hq-rtr-01 : %SYS-5-CONFIG_I: Configured from console by admin on vty0
+Feb 11 02:00:00.101 hq-rtr-01 : %IKEV2-5-OSAL_REKEY: SA rekey initiated for peer 203.0.113.42, CHILD_SA rekeying
+Feb 11 02:00:02.440 hq-rtr-01 : %CRYPTO-4-RECVD_PKT_INV_SPI: decaps: rec'd IPSEC packet has invalid spi for destaddr=198.51.100.7, prot=50, spi=0x4A1B22C9, srcaddr=203.0.113.42 - CHILD_SA_NOT_FOUND
+Feb 11 02:00:03.012 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is DOWN. Peer 203.0.113.42:4500 Id: br-fgt-01 IPsec SA deleted
+Feb 11 02:00:04.900 hq-rtr-01 : %BGP-3-NOTIFICATION: sent to neighbor 10.255.0.2 4/0 (hold time expired) 0 bytes
+Feb 11 02:00:04.905 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Down BGP Notification sent
+Feb 11 02:00:22.060 hq-rtr-01 : %IKEV2-5-SA_UP: SA UP with peer 203.0.113.42
+Feb 11 02:00:23.077 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is UP. Peer 203.0.113.42:4500 IPsec SA established
+Feb 11 02:00:31.010 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Up
+Feb 11 03:00:00.101 hq-rtr-01 : %IKEV2-5-OSAL_REKEY: SA rekey initiated for peer 203.0.113.42, CHILD_SA rekeying
+Feb 11 03:00:02.440 hq-rtr-01 : %CRYPTO-4-RECVD_PKT_INV_SPI: decaps: rec'd IPSEC packet has invalid spi for destaddr=198.51.100.7, prot=50, spi=0x4A1B22C9, srcaddr=203.0.113.42 - CHILD_SA_NOT_FOUND
+Feb 11 03:00:03.012 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is DOWN. Peer 203.0.113.42:4500 Id: br-fgt-01 IPsec SA deleted
+Feb 11 03:00:04.900 hq-rtr-01 : %BGP-3-NOTIFICATION: sent to neighbor 10.255.0.2 4/0 (hold time expired) 0 bytes
+Feb 11 03:00:04.905 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Down BGP Notification sent
+Feb 11 03:00:22.060 hq-rtr-01 : %IKEV2-5-SA_UP: SA UP with peer 203.0.113.42
+Feb 11 03:00:23.077 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is UP. Peer 203.0.113.42:4500 IPsec SA established
+Feb 11 03:00:31.010 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Up
+Feb 11 04:00:00.101 hq-rtr-01 : %IKEV2-5-OSAL_REKEY: SA rekey initiated for peer 203.0.113.42, CHILD_SA rekeying
+Feb 11 04:00:02.440 hq-rtr-01 : %CRYPTO-4-RECVD_PKT_INV_SPI: decaps: rec'd IPSEC packet has invalid spi for destaddr=198.51.100.7, prot=50, spi=0x4A1B22C9, srcaddr=203.0.113.42 - CHILD_SA_NOT_FOUND
+Feb 11 04:00:03.012 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is DOWN. Peer 203.0.113.42:4500 Id: br-fgt-01 IPsec SA deleted
+Feb 11 04:00:04.900 hq-rtr-01 : %BGP-3-NOTIFICATION: sent to neighbor 10.255.0.2 4/0 (hold time expired) 0 bytes
+Feb 11 04:00:04.905 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Down BGP Notification sent
+Feb 11 04:00:22.060 hq-rtr-01 : %IKEV2-5-SA_UP: SA UP with peer 203.0.113.42
+Feb 11 04:00:23.077 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is UP. Peer 203.0.113.42:4500 IPsec SA established
+Feb 11 04:00:31.010 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Up
+Feb 11 05:00:00.101 hq-rtr-01 : %IKEV2-5-OSAL_REKEY: SA rekey initiated for peer 203.0.113.42, CHILD_SA rekeying
+Feb 11 05:00:02.440 hq-rtr-01 : %CRYPTO-4-RECVD_PKT_INV_SPI: decaps: rec'd IPSEC packet has invalid spi for destaddr=198.51.100.7, prot=50, spi=0x4A1B22C9, srcaddr=203.0.113.42 - CHILD_SA_NOT_FOUND
+Feb 11 05:00:03.012 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is DOWN. Peer 203.0.113.42:4500 Id: br-fgt-01 IPsec SA deleted
+Feb 11 05:00:04.900 hq-rtr-01 : %BGP-3-NOTIFICATION: sent to neighbor 10.255.0.2 4/0 (hold time expired) 0 bytes
+Feb 11 05:00:04.905 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Down BGP Notification sent
+Feb 11 05:00:22.060 hq-rtr-01 : %IKEV2-5-SA_UP: SA UP with peer 203.0.113.42
+Feb 11 05:00:23.077 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is UP. Peer 203.0.113.42:4500 IPsec SA established
+Feb 11 05:00:31.010 hq-rtr-01 : %BGP-5-ADJCHANGE: neighbor 10.255.0.2 Up

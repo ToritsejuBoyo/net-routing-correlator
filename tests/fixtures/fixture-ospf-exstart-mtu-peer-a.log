@@ -1,0 +1,4 @@
+Mar 02 09:15:00.010 hq-rtr-01 : %CRYPTO-5-SESSION_STATUS: Crypto tunnel is UP. Peer 203.0.113.88:4500 IPsec SA established
+Mar 02 09:15:04.210 hq-rtr-01 : %OSPF-5-ADJCHG: Process 10, Nbr 10.255.1.2 on Tunnel0 from LOADING to EXSTART, SeqNumberMismatch
+Mar 02 09:15:05.300 hq-rtr-01 : %OSPF-4-EXTER_MTU: Received DBD packet with MTU 1500 larger than interface MTU 1400 on Tunnel0
+Mar 02 09:15:45.015 hq-rtr-01 : %OSPF-5-ADJCHG: Process 10, Nbr 10.255.1.2 on Tunnel0 from EXSTART to DOWN, Too many retransmissions

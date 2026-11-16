@@ -1,0 +1,6 @@
+2026-05-19T11:00:00Z hq-gw charon[1812]: 09[IKE] initiating IKE_SA peer[7] to 203.0.113.150
+2026-05-19T11:00:01Z hq-gw charon[1812]: 09[IKE] received NO_PROPOSAL_CHOSEN notify error
+2026-05-19T11:00:30Z hq-gw charon[1812]: 09[IKE] initiating IKE_SA peer[7] to 203.0.113.150
+2026-05-19T11:00:31Z hq-gw charon[1812]: 09[IKE] received NO_PROPOSAL_CHOSEN notify error
+2026-05-19T11:01:00Z hq-gw charon[1812]: 09[IKE] initiating IKE_SA peer[7] to 203.0.113.150
+2026-05-19T11:01:01Z hq-gw charon[1812]: 09[IKE] received NO_PROPOSAL_CHOSEN notify error
